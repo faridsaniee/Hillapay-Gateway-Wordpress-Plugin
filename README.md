@@ -1,2 +1,2 @@
-# Hillapay-Wordpress-Gateway
- for woocommerce
+# Hillapay Wordpress Gateway
+ Payment Solutions for Woocommerce
