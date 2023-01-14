@@ -1,16 +1,16 @@
 # Hillapay Payment Gateway
 Payment plugin for Woocommerce
 
-=== HillaPAY Gateway ===
-Contributors: Farid Saniee Pour, hillapay
-Donate link: https://hillapay.me/hillapay
-Requires at least: 1.0.0
-Tested up to: 5.7
-Requires PHP: 7.0.0
-Stable tag: 4.0.0
-License: GPLv3 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Author URI: https://www.linkedin.com/in/faridsaniee/
+=== HillaPAY Gateway === 
+Contributors: Farid Saniee Pour, hillapay<br/>
+Donate link: https://hillapay.me/hillapay<br/>
+Requires at least: 1.0.0<br/>
+Tested up to: 5.7<br/>
+Requires PHP: 7.0.0<br/>
+Stable tag: 4.0.0<br/>
+License: GPLv3 or later<br/>
+License URI: http://www.gnu.org/licenses/gpl-3.0.html<br/>
+Author URI: https://www.linkedin.com/in/faridsaniee/<br/>
 
 Hillapay payment plugin for WooCommerce
 
