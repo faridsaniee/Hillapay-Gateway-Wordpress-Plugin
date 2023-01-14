@@ -1,5 +1,5 @@
 # Hillapay Payment Gateway
-##Payment plugin for Woocommerce
+Payment plugin for Woocommerce
 
 === HillaPAY Gateway === 
 Contributors: Farid Saniee Pour, hillapay
