@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: درگاه پرداخت هیلاپی برای ووکامرس
-Version: 1.0.2
-Description:  افزونه درگاه پرداخت هیلاپی برای ووکامرس
+Plugin Name: Hillapay Payment Gateway for WooCommerce
+Version: 1.0.3
+Description: Hillapay Payment Gateway Plugin's for WooCommerce
 Plugin URI: https://hillapay.ir/
-Author: فرید صنیعی پور
+Author: Farid Saniee Pour
 Author URI: https://www.linkedin.com/in/faridsaniee/
 */
 if(!defined('ABSPATH')) exit;

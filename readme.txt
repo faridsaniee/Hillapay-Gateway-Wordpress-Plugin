@@ -9,24 +9,24 @@ Stable tag: 4.0.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-افزونه درگاه پرداخت هیلاپی برای ووکامرس
+Hillapay payment plugin for WooCommerce
 
 == Description ==
-با استفاده از این افزونه پرداخت های خود در اینترنت را مدیریت نمایید.
+Manage your payments on Woocommerce with this plugin.
 
 == Installation ==
-1. پوشه \'hillapay-gateway\' را در مسیر \'/wp-content/plugins/\' آپلود کنید
-2. افزونه را از طریق منوی "افزونه ها" در وردپرس فعال کنید
-3. تنظیمات افزونه را می توانید از طریق قسمت تنظیمات ووکامرس => پیکربندی => درگاه های پرداخت انجام دهید
+1. Upload the \'hillapay-gateway\' folder to \'/wp-content/plugins/\'
+2. Activate the plugin through the "Plugins" menu in WordPress
+3. You can configure the plugin through WooCommerce Settings => Configuration => Payment Gateways
 
 == Changelog ==
 
 
 == 1.0.2 ==
-بروزرسانی آدرس وب سرویس
+update Webservice URL
 
 == 1.0.0 ==
-راه اندازی اولیه افزونه درگاه پرداخت هیلاپی
+Initial setup of Hillapay payment gateway plugin
 
 == Upgrade Notice ==
-حل مشکل اندازه لوگو در صفحه تسویه حساب
+Solved the logo size problem on the checkout page
